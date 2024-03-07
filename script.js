@@ -1,3 +1,2 @@
 
-
-document.write('hacked')
+console.log('secure code')
