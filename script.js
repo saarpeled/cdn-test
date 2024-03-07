@@ -1,2 +1,2 @@
 
-console.log('secure code')
+document.write('hello world')
