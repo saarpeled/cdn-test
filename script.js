@@ -1,2 +1,2 @@
 
-document.write('hello world')
+document.write('Malicous Code')
