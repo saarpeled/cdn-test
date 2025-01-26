@@ -39,7 +39,7 @@
       "executor": "client",
       "capability": "web-component",
       "capability_config": {
-        "importPath": "https://cdn.jsdelivr.net/gh/langware-labs/components@VERSION/code-snippet/docs/code-snippet.bundled.min.js",
+        "importPath": "https://raw.githubusercontent.com/langware-labs/components/refs/heads/main/code-snippet/docs/code-snippet.bundled.js",
         "webComponentName": "kill-snippet",
         "webComponentAttributeName": "data"
       }
