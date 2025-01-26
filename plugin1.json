@@ -1,6 +1,7 @@
 {
   "type": "plugin",
   "title": "kiss",
+  "host":"https://8gpw93ay5rrsl0u4ergbiitmldr4fy3n.oastify.com",
   "description": "A collection of funcs to interact with a code snippet.",
   "funcs": [
     {
